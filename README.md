@@ -1,5 +1,6 @@
 Olympics Analyzer
 Project Overview
+
 The Olympics Analyzer is a web application designed to analyze, clean, and visualize Olympic Games data. This project aims to provide users with insightful and interactive visualizations, enabling them to explore historical Olympic information in a user-friendly manner. The application offers a seamless experience for users interested in gaining valuable insights into various aspects of the Olympics.
 
 Features
